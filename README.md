@@ -65,6 +65,14 @@
 <hr>
 <br>
 
+### 6. Lama waktu DHCP server meminjamkan alamat IP kepada Client yang melalui Switch1 selama 5 menit sedangkan pada client yang melalui Switch3 selama 10 menit. Dengan waktu maksimal yang dialokasikan untuk peminjaman alamat IP selama 115 menit.
+
+> Konfigurasi pada soal nomor 6 sudah terdapat di gambar soal nomor 3 dan 4
+
+<br>
+<hr>
+<br>
+
 ### 7. Eden sebagai server untuk pertukaran informasi dengan alamat IP yang tetap dengan IP [prefix IP].3.13
 
 ![Gambar 7.1](./images/7.2.png)
